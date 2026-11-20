@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "name": "地址轉經緯度",
+  "short_name": "地址轉經緯度",
+  "lang": "zh-Hant",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#193c70",
+  "icons": [
+    {
+      "src": "./pin-blue-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./pin-blue-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./pin-blue-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./pin-blue-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
